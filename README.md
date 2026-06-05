@@ -29,3 +29,8 @@ Developed by **Eshaal Atif** as part of a data automation and analytics portfoli
    ```bash
    git clone [https://github.com/eshaal22/colabs-data-dashboard.git](https://github.com/eshaal22/colabs-data-dashboard.git)
    cd colabs-data-dashboard
+## 🚀 Live Demo
+
+The interactive web dashboard is successfully deployed and accessible online. You can explore the data analytics, performance metrics, and interactive charts live here:
+
+👉 **[Live Data Dashboard](https://colabs-data-dashboard-fieyz3enk9so32tz7gbjpz.streamlit.app/)**
